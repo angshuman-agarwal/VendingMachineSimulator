@@ -4,6 +4,8 @@ etc. When a drink is requested a certain number of coins are provided. Write cod
 the state of the machine and calculates the change to be given when an item is purchased (e.g. 
 2 x 20p used to purchase an item costing 25p might return 1 x 10p and 1 x 5p)
 
+Refer Design.docx for assumptions/limitations and design
+
 Tools Used:
 C#, VS 2012, MSTest, Sandcastle help File builder
 
